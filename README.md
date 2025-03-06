@@ -33,6 +33,7 @@ export CMAKE_CXX_COMPILER="<path to GCC ARM embedded>/bin/arm-none-eabi-g++"
 
 ```bash
 cd "<path to code>"
+mkdir build
 cd build
 cmake -DPICO_BOARD=pico2_w -DPICO_PLATFORM=rp2350 ..
 make -j$(nproc --all)
