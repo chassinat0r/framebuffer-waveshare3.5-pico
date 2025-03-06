@@ -66,7 +66,7 @@ TBA
 
 - The LCD, sdcard, and fatfs libraries. Originals can be downloaded <a href="https://www.waveshare.com/wiki/Pico-ResTouch-LCD-3.5">from their wiki.</a>
 
-### Chassinat0r
+### Me
 
 - Framebuf implementation for C++
 - Display driver to draw the framebuffer to the display
